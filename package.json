@@ -3,6 +3,7 @@
 	"author": "Filip Stojanovic",
 	"description":"FreeCodeCamp Back End Development and APIs course ",
 	"keywords": ["node", "freecodecamp", "express", "backend",  "apis"],
+	"license": "open",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
