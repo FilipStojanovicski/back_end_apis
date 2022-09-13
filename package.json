@@ -4,8 +4,10 @@
 	"description":"FreeCodeCamp Back End Development and APIs course ",
 	"keywords": ["node", "freecodecamp", "express", "backend",  "apis"],
 	"license": "open",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
