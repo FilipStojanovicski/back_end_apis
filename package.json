@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Filip Stojanovic",
 	"description":"FreeCodeCamp Back End Development and APIs course ",
+	"keywords": ["node", "freecodecamp", "express", "backend",  "apis"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
